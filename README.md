@@ -3,7 +3,8 @@
 Crypto Sentiment & Trader Performance Analysis - 
 This project explores the correlation between Bitcoin Market Sentiment (Fear & Greed Index) and on-chain trader performance on the Hyperliquid DEX. By merging historical trade executions with daily sentiment classifications, we uncover how market psychology influences profitability, win rates, and directional bias (Long vs. Short).
 
-Project Objective
+Project Objective - 
+
 The goal is to move beyond "gut feeling" and use data to answer:
 
 1) Do traders perform better during periods of "Extreme Fear" or "Extreme Greed"?

@@ -34,7 +34,8 @@ Visualization: Matplotlib, Seaborn
 
 Environment: Jupyter Notebook / Python IDE
 
-Key Insights
+Key Insights - 
+
 The "Fear" Alpha: While "Greed" markets attract the most retail volume, the highest aggregate PnL in the dataset was captured during "Fear" periods, likely due to volatility-driven short opportunities.
 
 Win Rate vs. Sentiment: Win rates for Long positions peaked at >90% during "Extreme Greed," confirming a "rising tide lifts all boats" effect, whereas "Extreme Fear" periods saw the highest average profit per individual Short trade.

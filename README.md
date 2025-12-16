@@ -29,13 +29,13 @@ Datasets Used -
 
 Tech Stack - 
 
-   Language: Python 3.x
+   1) Language: Python 3.x
 
-   Data Manipulation: Pandas, NumPy
+   2) Data Manipulation: Pandas, NumPy
 
-   Visualization: Matplotlib, Seaborn
+   3) Visualization: Matplotlib, Seaborn
 
-   Environment: Jupyter Notebook / Python IDE
+   4) Environment: Jupyter Notebook / Python IDE
 
 Key Insights - 
 
